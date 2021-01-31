@@ -30,6 +30,19 @@ https://github.com/einschmidt/hassio-addons-beta
 
 ## Add-ons provided by this repository
 
+### &#10003; [Caddy 2][addon-caddy-2]
+
+![Latest Version][caddy-2-version-shield]
+![Supports armhf Architecture][caddy-2-armhf-shield]
+![Supports armv7 Architecture][caddy-2-armv7-shield]
+![Supports aarch64 Architecture][caddy-2-aarch64-shield]
+![Supports amd64 Architecture][caddy-2-amd64-shield]
+![Supports i386 Architecture][caddy-2-i386-shield]
+
+Powerful server with automatic HTTPS
+
+[:books: Caddy 2 add-on documentation][addon-doc-caddy-2]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -68,6 +81,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-caddy-2]: https://github.com/einschmidt/addon-caddy-2/tree/v0.2.0
+[addon-doc-caddy-2]: https://github.com/einschmidt/addon-caddy-2/blob/v0.2.0/README.md
+[caddy-2-issue]: https://github.com/einschmidt/addon-caddy-2/issues
+[caddy-2-version-shield]: https://img.shields.io/badge/version-v0.2.0-blue.svg
+[caddy-2-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[caddy-2-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons

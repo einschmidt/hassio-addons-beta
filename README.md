@@ -43,6 +43,19 @@ Powerful server with automatic HTTPS
 
 [:books: Caddy 2 add-on documentation][addon-doc-caddy-2]
 
+### &#10003; [youtube-dl][addon-youtube-dl]
+
+![Latest Version][youtube-dl-version-shield]
+![Supports armhf Architecture][youtube-dl-armhf-shield]
+![Supports armv7 Architecture][youtube-dl-armv7-shield]
+![Supports aarch64 Architecture][youtube-dl-aarch64-shield]
+![Supports amd64 Architecture][youtube-dl-amd64-shield]
+![Supports i386 Architecture][youtube-dl-i386-shield]
+
+Download videos from youtube.com and a few more sites
+
+[:books: youtube-dl add-on documentation][addon-doc-youtube-dl]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -90,6 +103,15 @@ SOFTWARE.
 [caddy-2-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [caddy-2-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [caddy-2-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/tree/v0.0.4
+[addon-doc-youtube-dl]: https://github.com/einschmidt/addon-youtube-dl/blob/v0.0.4/README.md
+[youtube-dl-issue]: https://github.com/einschmidt/addon-youtube-dl/issues
+[youtube-dl-version-shield]: https://img.shields.io/badge/version-v0.0.4-blue.svg
+[youtube-dl-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[youtube-dl-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[youtube-dl-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[youtube-dl-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[youtube-dl-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons

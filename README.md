@@ -56,6 +56,19 @@ A free, self-hostable feed aggregator
 
 [:books: FreshRSS add-on documentation][addon-doc-freshrss]
 
+### &#10003; [Fusion][addon-fusion]
+
+![Latest Version][fusion-version-shield]
+![Supports armhf Architecture][fusion-armhf-shield]
+![Supports armv7 Architecture][fusion-armv7-shield]
+![Supports aarch64 Architecture][fusion-aarch64-shield]
+![Supports amd64 Architecture][fusion-amd64-shield]
+![Supports i386 Architecture][fusion-i386-shield]
+
+Lightweight RSS feed aggregator and reader
+
+[:books: Fusion add-on documentation][addon-doc-fusion]
+
 ### &#10003; [yarr!][addon-yarr]
 
 ![Latest Version][yarr-version-shield]
@@ -138,6 +151,15 @@ SOFTWARE.
 [freshrss-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [freshrss-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [freshrss-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-fusion]: https://github.com/einschmidt/addon-fusion/tree/v0.1.0
+[addon-doc-fusion]: https://github.com/einschmidt/addon-fusion/blob/v0.1.0/README.md
+[fusion-issue]: https://github.com/einschmidt/addon-fusion/issues
+[fusion-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[fusion-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[fusion-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[fusion-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[fusion-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[fusion-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-yarr]: https://github.com/einschmidt/addon-yarr/tree/v0.4.0
 [addon-doc-yarr]: https://github.com/einschmidt/addon-yarr/blob/v0.4.0/README.md
 [yarr-issue]: https://github.com/einschmidt/addon-yarr/issues

@@ -17,3 +17,7 @@ addons:
     repository: einschmidt/addon-freshrss
     target: freshrss
     image: ghcr.io/einschmidt/freshrss/{arch}
+  fusion:
+    repository: einschmidt/addon-fusion
+    target: fusion
+    image: ghcr.io/einschmidt/fusion/{arch}

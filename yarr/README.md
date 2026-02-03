@@ -25,4 +25,4 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/einschmidt/hassio-addons>
 
-[promo]: https://github.com/einschmidt/addon-yarr/raw/main/images/promo.png
+[promo]: https://github.com/einschmidt/app-yarr/raw/main/images/promo.png

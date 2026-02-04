@@ -1,6 +1,6 @@
-# Home Assistant Add-on: Fusion
+# Home Assistant App: Fusion
 
-Home Assistant add-on for [Fusion](https://github.com/0x2E/fusion).
+Home Assistant app for [Fusion](https://github.com/0x2E/fusion).
 
 ## About
 
@@ -8,7 +8,7 @@ A lightweight RSS feed aggregator and reader.
 
 ## WARNING! THIS IS A BETA VERSION!
 
-This Home Assistant Add-ons repository contains beta releases of add-ons.
+This Home Assistant App repository contains beta releases of apps.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -16,9 +16,9 @@ This Home Assistant Add-ons repository contains beta releases of add-ons.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/einschmidt/hassio-addons>
 

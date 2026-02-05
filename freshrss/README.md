@@ -1,4 +1,4 @@
-# Home Assistant Add-on: freshrss
+# Home Assistant App: freshrss
 
 A free, self-hostable feed aggregator.
 
@@ -11,7 +11,7 @@ It is lightweight, easy to work with, powerful, and customizable.
 
 ## WARNING! THIS IS A BETA VERSION!
 
-This Home Assistant Add-ons repository contains beta releases of add-ons.
+This Home Assistant Apps repository contains beta releases of apps.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -19,10 +19,10 @@ This Home Assistant Add-ons repository contains beta releases of add-ons.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/einschmidt/hassio-addons>
 
-[preview]: https://github.com/einschmidt/addon-freshrss/raw/main/images/freshrss.webp
+[preview]: https://github.com/einschmidt/app-freshrss/raw/main/images/freshrss.webp

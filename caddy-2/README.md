@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Caddy 2
+# Home Assistant App: Caddy 2
 
 Caddy 2 is a modern, powerful, enterprise-grade open-source web server designed for simplicity, security, and flexibility.
 It’s unique in its ability to automatically manage HTTPS by default, without any complex configuration.
@@ -10,7 +10,7 @@ With built-in HTTPS management, reverse proxy capabilities, and modular extensib
 
 ## WARNING! THIS IS A BETA VERSION!
 
-This Home Assistant Add-ons repository contains beta releases of add-ons.
+This Home Assistant Apps repository contains beta releases of apps.
 
 - They might stop working at any time.
 - They could have a negative impact on your system.
@@ -18,9 +18,9 @@ This Home Assistant Add-ons repository contains beta releases of add-ons.
 This repository was created for:
 
 - Anybody willing to test.
-- Anybody interested in trying out upcoming add-ons or add-on features.
+- Anybody interested in trying out upcoming apps or app features.
 
-If you are more interested in stable releases of our add-ons:
+If you are more interested in stable releases of our apps:
 
 <https://github.com/einschmidt/hassio-addons>
 
